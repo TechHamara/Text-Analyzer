@@ -7,7 +7,9 @@ Text Analyzer - Word &amp; Character Counter
 
 ## Preview 
 
-![Screenshot_2025-03-13-14-24-37-611_com.android.chrome.jpg](https://github.com/user-attachments/assets/2f258638-b6a4-49b1-9459-27be54d13237)
+![Screenshot_2025-03-13-15-38-44-754_com.android.chrome.jpg](https://github.com/user-attachments/assets/2aff255c-9372-49a0-a56f-67323305a402)
+
+![Screenshot_2025-03-13-15-38-30-013_com.android.chrome.jpg](https://github.com/user-attachments/assets/5634f098-d9b8-4dca-950c-45692868726f)
 
 ## Thanks And Regards 
   TechHamara
